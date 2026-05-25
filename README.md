@@ -22,12 +22,15 @@ Atualmente lidero a arquitetura técnica da **Abstract Prisma**, desenvolvendo e
 
 ---
 
-## 📊 Estatísticas de Código
+## 📊 Métricas & Foco Técnico
 
-![Commits no GitHub](https://img.shields.io/github/commits-per-year/ViniSinx?style=for-the-badge&color=238636&label=COMMITS%20ESTE%20ANO)
-![Principais Linguagens](https://img.shields.io/github/languages/top/ViniSinx/Abstract-Devs?style=for-the-badge&color=3178c6&label=STACK%20PRINCIPAL)
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Building_Abstract_Prisma-8a2be2?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Main_Stack-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Environment-Docker_%26_GCP-cf483e?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+</p>
 
-> *Nota: Os dados acima incluem a atividade de desenvolvimento nos ecossistemas privados da Abstract Prisma.*
+> 💡 *Nota: O histórico detalhado de commits em tempo real e a atividade intensa de arquitetura podem ser visualizados diretamente no gráfico de contribuições nativo do GitHub (abaixo), que computa todas as interações da Abstract Prisma de forma segura.*
 
 ---
 
