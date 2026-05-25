@@ -22,12 +22,12 @@ Atualmente lidero a arquitetura técnica da **Abstract Prisma**, desenvolvendo e
 
 ---
 
-## 📊 Estatísticas de Desenvolvimento
+## 📊 Estatísticas de Código
 
-<p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ViniSinx&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas de ViniSinx" height="150" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ViniSinx&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150" />
-</p>
+![Commits no GitHub](https://img.shields.io/github/commits-per-year/ViniSinx?style=for-the-badge&color=238636&label=COMMITS%20ESTE%20ANO)
+![Principais Linguagens](https://img.shields.io/github/languages/top/ViniSinx/Abstract-Devs?style=for-the-badge&color=3178c6&label=STACK%20PRINCIPAL)
+
+> *Nota: Os dados acima incluem a atividade de desenvolvimento nos ecossistemas privados da Abstract Prisma.*
 
 ---
 
